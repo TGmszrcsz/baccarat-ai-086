@@ -6,6 +6,12 @@
 
 整理日期：2026-09-17　｜　专题方向：版本管理
 
+<!-- article-chain:start -->
+
+> 系列导航：[全部文章目录](https://github.com/TGmszrcsz/baccarat-ai-index) ｜ [上一篇：第 085 篇 - 百家乐Ai预测分析工具：数据保留期限与复查需求怎样协调](https://github.com/TGmszrcsz/baccarat-ai-085) ｜ [下一篇：第 087 篇 - 百家乐Ai预测分析工具：校验值能够证明什么又不能证明什么](https://github.com/TGmszrcsz/baccarat-ai-087)
+
+<!-- article-chain:end -->
+
 截图用于说明统计功能，同时露出了账户标识。本篇围绕“共享截图前先处理与分析无关的信息”展开，结合现有界面示例，说明判断依据、核对顺序和需要保留的记录。
 
 ## 一、从具体场景进入问题
